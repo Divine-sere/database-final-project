@@ -1,5 +1,5 @@
 # database-final-project
-https://github.com/Divine-sere/database-final-project/issues/1
+https://github.com/Divine-sere/database-final-project/issues/1 the erd diagram
 📌 Project Title
 Clinic Booking System - MySQL Relational Database Design
 
